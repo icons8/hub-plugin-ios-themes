@@ -1,0 +1,13 @@
+{
+  "name": "ios-themes",
+  "icon": "icon.png",
+  "description": "Hub themes for an iOS developer: Liquid Glass, light, glass over a wallpaper in the spirit of iOS 26; Blueprint, a dark Interface Builder blueprint with an orange accent. Icons8 icons and avatars in the iOS style",
+  "why": "The hub in an iOS developer's familiar surroundings: a light theme for the day and a dark one for the evening, one install",
+  "version": "1.1.1",
+  "hub": "^1.36",
+  "web": "clean.js",
+  "themes": [
+    "themes/liquid-glass/liquid-glass.json",
+    "themes/blueprint/blueprint.json"
+  ]
+}
